@@ -3,10 +3,10 @@ lockfileVersion: '6.0'
 dependencies:
   '@maizzle/framework':
     specifier: latest
-    version: 4.4.5(glob@7.2.3)
+    version: 4.4.6(glob@7.2.3)
   tailwindcss-box-shadow:
-    specifier: ^2.0.0
-    version: 2.0.0(tailwindcss@3.3.2)
+    specifier: ^2.0.1
+    version: 2.0.1(tailwindcss@3.3.2)
   tailwindcss-email-variants:
     specifier: ^2.0.0
     version: 2.0.0(tailwindcss@3.3.2)
@@ -109,8 +109,8 @@ packages:
       - zenObservable
     dev: false
 
-  /@maizzle/framework@4.4.5(glob@7.2.3):
-    resolution: {integrity: sha512-y6un3DnK2rloW9klOX5S5XXYTvxGI8R+AGfS+OlIsYotawpeRoiI1GI4jgDxXxzl5MZ/MIIZrK3143XVTmzpcg==}
+  /@maizzle/framework@4.4.6(glob@7.2.3):
+    resolution: {integrity: sha512-3GNDrrtqBcQD4YpVbuC5TgTNEVHP8D0v9v3ff5U96ZM0aYTM6552c1u9N2OeocoqrYEhaqtHBeqMaPfYCnoU/A==}
     engines: {node: '>=14.0.0'}
     hasBin: true
     dependencies:
@@ -4764,10 +4764,10 @@ packages:
     engines: {node: '>=0.10'}
     dev: false
 
-  /tailwindcss-box-shadow@2.0.0(tailwindcss@3.3.2):
-    resolution: {integrity: sha512-RZdePEMzIpiTG0FmbncVlY6Zkqp3tBhpyCoVpc8UQBZEdGY8TqVcIrE75Si4vIz/oGDAIFRKGeKFt2HLLbLHHQ==}
+  /tailwindcss-box-shadow@2.0.1(tailwindcss@3.3.2):
+    resolution: {integrity: sha512-F0reqyXrQkcPQiCM27ZqV8Le0CGqea0S5PCwwgTnNrdzOdDs2y6iJ5jJKIdMgKu/1VxUpgP0CMPU/k8vdqpLBA==}
     peerDependencies:
-      tailwindcss: '>=3.0.0'
+      tailwindcss: '>=3.3.0'
     dependencies:
       tailwindcss: 3.3.2
     dev: false
